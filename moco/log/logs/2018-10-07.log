@@ -1,0 +1,25 @@
+2018-10-07 08:38:29,768 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 09:01:00,412 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 09:01:26,256 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 09:01:51,173 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 09:02:16,993 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:28:40,325 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:29:05,485 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:29:42,770 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:30:08,926 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:33:48,596 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:34:15,164 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:34:39,941 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:35:08,270 first_case.py--> setUp  20: INFO --> This is chrome
+2018-10-07 13:55:20,610 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 13:56:35,748 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 13:57:51,042 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 14:00:16,431 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 15:26:59,714 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 15:27:28,893 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 15:27:55,334 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 15:28:23,323 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 16:43:19,816 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 16:43:46,313 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 16:44:12,587 first_case.py--> setUp  20: INFO --> 打开浏览器成功
+2018-10-07 16:44:40,233 first_case.py--> setUp  20: INFO --> 打开浏览器成功
