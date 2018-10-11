@@ -1,11 +1,11 @@
 from selenium import webdriver
 import sys
-sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 import unittest
 import os
 import time
 import HTMLTestRunner
 
+sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 from business.register_business import RegisterBusiness
 from log.get_log import UserLog
 
@@ -23,8 +23,8 @@ class FirstCase(unittest.TestCase):
 
     def setUp(self):
         self.driver = webdriver.Chrome("C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application"
-                                        "\\chromedriver.exe")
-        #self.driver = webdriver.Chrome()
+                                       "\\chromedriver.exe")
+        # self.driver = webdriver.Chrome()
         option = webdriver.ChromeOptions()
         option.binary_location = r'C:\Users\Administrator\AppData\Local\Google\Chrome\Application\chrome.exe'
         self.driver.get("http://www.5itest.cn/register?goto=/")
@@ -36,9 +36,9 @@ class FirstCase(unittest.TestCase):
         for methon_name, error in self._outcome.errors:
             if error:
                 case_name = self._testMethodName
-                #filePath = os.path.join(os.path.dirname(os.getcwd()) + "\\report\\" + case_name + ".png")
+                # filePath = os.path.join(os.path.dirname(os.getcwd()) + "\\report\\" + case_name + ".png")
                 filePath1 = 'C:\\Users\\Administrator\\PycharmProjects\\moco\\report'
-                filePath = filePath1+'\\'+case_name+'.png'
+                filePath = filePath1 + '\\' + case_name + '.png'
                 self.driver.save_screenshot(filePath)
         self.driver.close()
 
@@ -74,7 +74,7 @@ class FirstCase(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    #filePath = os.path.join(os.path.dirname(os.getcwd()) + "\\report\\" + "first_case.html")
+    # filePath = os.path.join(os.path.dirname(os.getcwd()) + "\\report\\" + "first_case.html")
     filePath = 'C:\\Users\\Administrator\\PycharmProjects\\moco\\report\\first_case.html'
     f = open(filePath, "wb")
     suite = unittest.TestSuite()
