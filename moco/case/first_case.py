@@ -1,7 +1,9 @@
 # encoding:utf-8
 from selenium import webdriver
 import sys
+
 sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
+sys.path.append('C:\Program Files (x86)\python\HTMLTestRunner.py')
 import unittest
 import os
 import time
