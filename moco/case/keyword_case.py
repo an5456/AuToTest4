@@ -1,7 +1,8 @@
+import sys
+
+sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 from keywordselenium.actionMethod import ActionMethod
 from util.excel_util import ExcelUtil
-import sys
-sys.path.append(r'C:\Users\Administrator\PycharmProjects\moco')
 
 
 class KeywordCase(object):
