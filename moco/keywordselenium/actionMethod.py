@@ -10,7 +10,8 @@ class ActionMethod:
     # 打开浏览器
     def open_browser(self, browser):
         if browser == 'chrome':
-            self.driver = webdriver.Chrome()
+            self.driver = webdriver.Chrome("C:\\Users\\Administrator\\AppData\\Local\\Google\\Chrome\\Application"
+                                       "\\chromedriver.exe")
         elif browser == 'firefox':
             self.driver = webdriver.Firefox()
         else:
