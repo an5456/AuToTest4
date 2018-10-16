@@ -7,7 +7,7 @@ sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 import unittest
 import os
 import time
-import HTMLTestRunner
+#import HTMLTestRunner
 
 from business.register_business import RegisterBusiness
 from log.get_log import UserLog
