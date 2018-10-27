@@ -1,7 +1,7 @@
 # encoding:utf-8
 from selenium import webdriver
 import sys
-sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
+
 #sys.path.append('C:\\Program Files (x86)\\python\\lib\\HTMLTestRunner.py')
 import unittest
 import os
@@ -12,6 +12,7 @@ from business.register_business import RegisterBusiness
 from log.get_log import UserLog
 
 from util.read_ini import ReadIni
+sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 
 
 class FirstCase(unittest.TestCase):
