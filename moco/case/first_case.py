@@ -1,13 +1,12 @@
 # encoding:utf-8
 from selenium import webdriver
 import sys
-
 sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 #sys.path.append('C:\\Program Files (x86)\\python\\lib\\HTMLTestRunner.py')
 import unittest
 import os
 import time
-#import HTMLTestRunner
+import HTMLTestRunner
 
 from business.register_business import RegisterBusiness
 from log.get_log import UserLog
@@ -85,7 +84,7 @@ if __name__ == '__main__':
     suite.addTest(FirstCase("test_login_username_error"))
     suite.addTest(FirstCase("test_login_password_error"))
     suite.addTest(FirstCase("test_longin_code_error"))
-    suite.addTest(FirstCase("test_login_success"))
-    unittest.TextTestRunner().run(suite)
-    # runner = HTMLTestRunner.HTMLTestRunner(stream=f, title="UI 自动化测试报告", description=u"这是我们第一个测试报告", verbosity=2)
-    # runner.run(suite)
+    # suite.addTest(FirstCase("test_login_success"))
+    # unittest.TextTestRunner().run(suite)
+    runner = HTMLTestRunner.HTMLTestRunner(stream=f, title="UI 自动化测试报告", description=u"这是我们第一个测试报告", verbosity=2)
+    runner.run(suite)
