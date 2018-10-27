@@ -1,6 +1,6 @@
 import sys
 
-sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
+sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\AuToTest4\\moco')
 from keywordselenium.actionMethod import ActionMethod
 from util.excel_util import ExcelUtil
 
@@ -9,7 +9,7 @@ class KeywordCase(object):
 
     def run_main(self):
         self.action_metnod = ActionMethod()
-        handle_excel = ExcelUtil(r"C:\Users\Administrator\PycharmProjects\moco\case\key_word.xls")
+        handle_excel = ExcelUtil(r"C:\Users\Administrator\PycharmProjects\AuToTest4\moco\case\key_word.xls")
         # 拿到行数
         case_lines = handle_excel.get_lines()
         # 循环行数，执行每一行case
