@@ -1,4 +1,7 @@
+# encoding: utf-8
 import sys
+
+from log.get_log import UserLog
 
 sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\AuToTest4\\moco')
 from keywordselenium.actionMethod import ActionMethod
@@ -12,6 +15,8 @@ class KeywordCase(object):
         handle_excel = ExcelUtil(r"C:\Users\Administrator\PycharmProjects\AuToTest4\moco\case\key_word.xls")
         # 拿到行数
         case_lines = handle_excel.get_lines()
+        self.log = UserLog()
+        self.logger = self.log.get_log()
         # 循环行数，执行每一行case
         if case_lines:
             for i in range(1, case_lines):
@@ -37,19 +42,19 @@ class KeywordCase(object):
 
                             result = self.run_method(except_result_method)
                             if except_value[1] in result:
+                                self.logger.info("测试通过")
                                 handle_excel.write_value(i, 'pass')
                             else:
                                 handle_excel.write_value(i, 'fail')
                         elif except_value[0] == 'element':
                             result = self.run_method(except_result_method, except_value[1])
                             if result:
+                                self.logger.info("测试通过")
                                 handle_excel.write_value(i, 'pass')
                             else:
                                 handle_excel.write_value(i, 'fail')
                         else:
                             return None
-                    else:
-                        print("预期结果为空")
 
     # 获取预期结果
     def get_except_result_value(self, data):
