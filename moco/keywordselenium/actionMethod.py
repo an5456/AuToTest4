@@ -1,9 +1,9 @@
+# encoding: utf-8
 import time
 
 from selenium import webdriver
 
 from base.find_element import FindElement
-
 
 class ActionMethod:
 
