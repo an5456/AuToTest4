@@ -3,9 +3,9 @@ import sys
 
 from log.get_log import UserLog
 
-sys.path.append('/var/lib/jenkins/workspace/seleniumPython/moco')
 from keywordselenium.actionMethod import ActionMethod
 from util.excel_util import ExcelUtil
+sys.path.append('/var/lib/jenkins/workspace/seleniumPython/moco')
 
 
 class KeywordCase(object):
