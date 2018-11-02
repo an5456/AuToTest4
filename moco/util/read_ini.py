@@ -2,7 +2,10 @@ import sys
 
 sys.path.append('/var/lib/jenkins/workspace/seleniumPython/moco')
 import os
-import configparser
+try:
+    import configparser
+except:
+    from six.moves import configparser 
 
 
 class ReadIni(object):
