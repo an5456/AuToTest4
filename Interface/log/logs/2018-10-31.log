@@ -1,0 +1,348 @@
+2018-10-31 21:52:38,576 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:52:38,576 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:52:38,576 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994083728
+}
+2018-10-31 21:52:38,576 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994083728
+}
+2018-10-31 21:53:37,934 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:53:37,934 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:53:37,934 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994143102
+}
+2018-10-31 21:53:37,934 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994143102
+}
+2018-10-31 21:56:25,480 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:56:25,480 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:56:25,480 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994310682
+}
+2018-10-31 21:56:25,480 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994310682
+}
+2018-10-31 21:58:29,000 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:58:29,000 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:58:29,000 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994434174
+}
+2018-10-31 21:58:29,000 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994434174
+}
+2018-10-31 21:59:30,464 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:59:30,464 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 21:59:30,464 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994495651
+}
+2018-10-31 21:59:30,464 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994495651
+}
+2018-10-31 21:59:32,726 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 21:59:32,726 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 21:59:32,726 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 21:59:32,726 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 21:59:32,742 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 21:59:32,742 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 21:59:32,742 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 21:59:32,742 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 21:59:32,742 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 21:59:32,742 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:00:57,964 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:00:57,964 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:00:57,964 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994583156
+}
+2018-10-31 22:00:57,964 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994583156
+}
+2018-10-31 22:02:57,680 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:02:57,680 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:02:57,680 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994702832
+}
+2018-10-31 22:02:57,680 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994702832
+}
+2018-10-31 22:02:58,397 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:02:58,397 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:02:58,397 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:02:58,397 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:02:58,413 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:02:58,413 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:02:58,413 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:02:58,413 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:02:58,413 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:02:58,413 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:03:42,499 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:03:42,499 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:03:42,499 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994747660
+}
+2018-10-31 22:03:42,499 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994747660
+}
+2018-10-31 22:03:46,945 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:03:46,945 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:03:46,945 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:03:46,945 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:03:46,960 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:03:46,960 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:03:46,960 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:03:46,960 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:03:46,960 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:03:46,960 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:04:41,670 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:04:41,670 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-10-31 22:04:41,670 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994806841
+}
+2018-10-31 22:04:41,670 run_main.py--> go_on_run  20: INFO --> 响应数据{
+  "code": 200,
+  "data": {
+    "errorStackSamplingRate": 0,
+    "isconnect": true
+  },
+  "message": "请求成功",
+  "timestamp": 1540994806841
+}
+2018-10-31 22:04:41,997 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:04:41,997 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:04:41,997 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:04:41,997 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:04:41,997 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:04:41,997 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:04:42,013 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:04:42,013 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:04:42,013 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:04:42,013 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:11:59,470 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:11:59,470 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 22:11:59,470 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:11:59,470 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 22:11:59,501 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:11:59,501 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 22:11:59,501 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:11:59,501 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 22:11:59,501 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 22:11:59,501 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:06:18,517 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:06:18,517 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:06:18,517 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:06:18,517 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:06:18,548 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:06:18,548 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:06:18,548 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:06:18,548 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:06:18,548 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:06:18,548 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:22:12,267 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:22:12,267 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:22:12,267 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-10-31 23:22:12,267 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-10-31 23:22:12,267 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:22:12,267 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:22:12,299 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:22:12,299 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:22:12,299 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:22:12,299 run_main.py--> go_on_run  20: INFO --> 请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:22:12,299 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:22:12,299 run_main.py--> go_on_run  20: INFO --> 响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:31:09,782 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:31:09,782 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:31:09,782 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-10-31 23:31:09,782 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-10-31 23:31:09,782 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:31:09,782 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:31:09,813 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:31:09,813 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:31:09,813 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:31:09,813 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:31:09,813 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:31:09,813 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:32:51,120 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:32:51,120 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-10-31 23:32:51,120 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-10-31 23:32:51,120 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-10-31 23:32:51,120 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:32:51,120 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-10-31 23:32:51,135 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:32:51,135 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-10-31 23:32:51,135 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:32:51,135 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-10-31 23:32:51,135 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-10-31 23:32:51,135 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}

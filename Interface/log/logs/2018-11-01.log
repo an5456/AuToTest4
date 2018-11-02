@@ -1,0 +1,1414 @@
+2018-11-01 12:42:41,621 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 12:42:41,621 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 12:42:41,622 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 12:42:41,622 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 12:42:41,622 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 12:42:41,622 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 12:42:41,652 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 12:42:41,652 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 12:42:41,653 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 12:42:41,653 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 12:42:41,653 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 12:42:41,653 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 12:42:42,578 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 12:42:42,578 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 12:42:42,578 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001379",
+  "message": "成功"
+}
+2018-11-01 12:42:42,578 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001379",
+  "message": "成功"
+}
+2018-11-01 16:27:18,415 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 16:27:18,415 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 16:27:18,416 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 16:27:18,416 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 16:27:18,416 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 16:27:18,416 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 16:27:18,437 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 16:27:18,437 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 16:27:18,438 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 16:27:18,438 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 16:27:18,438 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 16:27:18,438 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 16:27:18,604 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 16:27:18,604 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 16:27:18,605 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 16:27:18,605 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 16:27:18,605 run_main.py--> go_on_run  20: INFO --> 失败的行数：21
+2018-11-01 16:27:18,605 run_main.py--> go_on_run  20: INFO --> 失败的行数：21
+2018-11-01 16:27:18,622 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/addOrUpdateEnquiryOrder
+2018-11-01 16:27:18,622 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/addOrUpdateEnquiryOrder
+2018-11-01 16:27:18,623 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'enquiryOrder': {'customer': '40288130624b5a5a01624b73e4ec0022', 'customname': '测试1', 'enterprise': '4028813062b507430162c727eb4c00e2', 'enterprisename': '诸暨裕大贸易有限公司', 'createuser': '邓丹芳', 'createdate': '', 'createtime': '', 'status': '', 'checkuser': '', 'checkdate': '', 'checktime': '', 'checkadvice': '', 'sumordernum': 0, 'sumamount': '', 'memos': '', 'customerorderno': '', 'enquirydate': '2018-10-30T01:33:44.000Z', 'enquiryenddate': '2018-10-31T16:00:00.000Z', 'paymethod': '1', 'receiveaddress': '', 'supplydate': '', 'warrantydate': '', 'enclosure': '[]', 'isspecify': '0', 'salesid': 2481, 'businesstype': 0, 'salesman': '邓丹芳'}, 'enquiryOrderItems': [{'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '1', 'material': None, 'materialno': None, 'custommaterialno': 'A00001', 'materialname': '塑壳断路器', 'materialrule': 'NSX160S Mic2.2 3P 3D 100A', 'materialsize': 'LV430391X22100', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 5, 'warrantydate': None, 'supplydate': None, 'memos': '测试1', 'department': '测试单位1', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '2', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 4, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊2', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '3', 'material': None, 'materialno': None, 'custommaterialno': '00100009', 'materialname': '不倒翁卷笔刀', 'materialrule': '3XX', 'materialsize': '4SIZE', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 6, 'warrantydate': None, 'supplydate': None, 'memos': '', 'department': '测试单位3', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商2', 'itemno': '4', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 7, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊3', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}]}
+2018-11-01 16:27:18,623 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'enquiryOrder': {'customer': '40288130624b5a5a01624b73e4ec0022', 'customname': '测试1', 'enterprise': '4028813062b507430162c727eb4c00e2', 'enterprisename': '诸暨裕大贸易有限公司', 'createuser': '邓丹芳', 'createdate': '', 'createtime': '', 'status': '', 'checkuser': '', 'checkdate': '', 'checktime': '', 'checkadvice': '', 'sumordernum': 0, 'sumamount': '', 'memos': '', 'customerorderno': '', 'enquirydate': '2018-10-30T01:33:44.000Z', 'enquiryenddate': '2018-10-31T16:00:00.000Z', 'paymethod': '1', 'receiveaddress': '', 'supplydate': '', 'warrantydate': '', 'enclosure': '[]', 'isspecify': '0', 'salesid': 2481, 'businesstype': 0, 'salesman': '邓丹芳'}, 'enquiryOrderItems': [{'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '1', 'material': None, 'materialno': None, 'custommaterialno': 'A00001', 'materialname': '塑壳断路器', 'materialrule': 'NSX160S Mic2.2 3P 3D 100A', 'materialsize': 'LV430391X22100', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 5, 'warrantydate': None, 'supplydate': None, 'memos': '测试1', 'department': '测试单位1', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '2', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 4, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊2', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '3', 'material': None, 'materialno': None, 'custommaterialno': '00100009', 'materialname': '不倒翁卷笔刀', 'materialrule': '3XX', 'materialsize': '4SIZE', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 6, 'warrantydate': None, 'supplydate': None, 'memos': '', 'department': '测试单位3', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商2', 'itemno': '4', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 7, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊3', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}]}
+2018-11-01 16:27:18,623 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "1003",
+  "data": {
+    "message": "工作流调用出错"
+  },
+  "message": "工作流调用出错"
+}
+2018-11-01 16:27:18,623 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "1003",
+  "data": {
+    "message": "工作流调用出错"
+  },
+  "message": "工作流调用出错"
+}
+2018-11-01 16:29:56,842 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 16:29:56,842 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 16:29:56,842 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 16:29:56,842 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 16:29:56,843 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 16:29:56,843 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 16:29:56,862 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 16:29:56,862 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 16:29:56,862 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 16:29:56,862 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 16:29:56,862 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 16:29:56,862 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 16:29:57,645 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 16:29:57,645 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 16:29:57,645 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001383",
+  "message": "成功"
+}
+2018-11-01 16:29:57,645 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001383",
+  "message": "成功"
+}
+2018-11-01 17:03:24,390 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:03:24,390 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:03:24,390 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 17:03:24,390 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 17:03:24,390 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 17:03:24,390 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 17:03:24,412 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 17:03:24,412 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 17:03:24,412 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 17:03:24,412 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 17:03:24,413 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 17:03:24,413 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 17:03:24,767 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:03:24,767 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:03:24,767 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001384",
+  "message": "成功"
+}
+2018-11-01 17:03:24,767 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001384",
+  "message": "成功"
+}
+2018-11-01 17:07:45,042 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:07:45,042 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:07:45,043 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 17:07:45,043 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 17:07:45,043 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 17:07:45,043 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 17:08:55,869 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:08:55,869 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:08:55,870 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001386",
+  "message": "成功"
+}
+2018-11-01 17:08:55,870 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001386",
+  "message": "成功"
+}
+2018-11-01 17:09:30,886 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:09:30,886 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:09:30,887 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001388",
+  "message": "成功"
+}
+2018-11-01 17:09:30,887 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001388",
+  "message": "成功"
+}
+2018-11-01 17:10:09,428 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:10:09,428 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:10:09,428 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001390",
+  "message": "成功"
+}
+2018-11-01 17:10:09,428 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001390",
+  "message": "成功"
+}
+2018-11-01 17:10:09,667 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:10:09,667 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:10:09,667 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:10:09,667 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:10:09,667 run_main.py--> go_on_run  20: INFO --> 失败的行数：22
+2018-11-01 17:10:09,667 run_main.py--> go_on_run  20: INFO --> 失败的行数：22
+2018-11-01 17:10:09,686 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/workFlow/getHistoricComment
+2018-11-01 17:10:09,686 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/workFlow/getHistoricComment
+2018-11-01 17:10:09,687 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': 'EQ20181101001391'}
+2018-11-01 17:10:09,687 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': 'EQ20181101001391'}
+2018-11-01 17:10:09,687 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:10:09,687 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:10:09,920 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:10:09,920 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:10:09,921 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:10:09,921 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:10:09,921 run_main.py--> go_on_run  20: INFO --> 失败的行数：23
+2018-11-01 17:10:09,921 run_main.py--> go_on_run  20: INFO --> 失败的行数：23
+2018-11-01 17:10:09,942 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/detailInfo
+2018-11-01 17:10:09,942 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/detailInfo
+2018-11-01 17:10:09,943 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': 'EQ20181101001392'}
+2018-11-01 17:10:09,943 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': 'EQ20181101001392'}
+2018-11-01 17:10:09,943 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:10:09,943 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:12:02,218 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:12:02,218 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:12:02,219 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001393",
+  "message": "成功"
+}
+2018-11-01 17:12:02,219 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001393",
+  "message": "成功"
+}
+2018-11-01 17:12:02,509 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:12:02,509 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:12:02,509 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": [],
+  "message": "调用API成功"
+}
+2018-11-01 17:12:02,509 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": [],
+  "message": "调用API成功"
+}
+2018-11-01 17:12:02,718 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:12:02,718 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:12:02,719 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": {
+    "enquiryOrder": {
+      "bidstatus": "0",
+      "business": "593146",
+      "businesstype": 0,
+      "checkadvice": null,
+      "checkdate": null,
+      "checkuser": null,
+      "checkuserid": null,
+      "createdate": "2018-11-01 17:14:07",
+      "createuser": "邓丹芳",
+      "createuserid": "2481",
+      "customer": "40288130624b5a5a01624b73e4ec0022",
+      "customerorderno": null,
+      "customname": "测试1",
+      "distributestatus": null,
+      "enclosure": "[]",
+      "enquirydate": "2018-10-30 09:33:44",
+      "enquiryenddate": "2018-11-01 00:00:00",
+      "enquirytasknum": null,
+      "enterprise": "4028813062b507430162c727eb4c00e2",
+      "enterprisename": "诸暨裕大贸易有限公司",
+      "fromsystem": 0,
+      "isdelete": 0,
+      "isspecify": 0,
+      "memos": null,
+      "paymethod": "1",
+      "quotationnum": null,
+      "quotationschedule": null,
+      "receiveaddress": null,
+      "saleOrder": null,
+      "salesid": "2481",
+      "salesman": "邓丹芳",
+      "status": 0,
+      "sumamount": null,
+      "sumordernum": 22,
+      "supplydate": null,
+      "ticketno": "EQ20181101001395",
+      "warrantydate": null
+    },
+    "enquiryOrderItems": [
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00001",
+        "department": "测试单位1",
+        "distributestatus": null,
+        "id": "4dfe3971317c4890a1b1246a3355b763",
+        "itemno": "1",
+        "material": null,
+        "materialname": "塑壳断路器",
+        "materialno": null,
+        "materialrule": "NSX160S Mic2.2 3P 3D 100A",
+        "materialsize": "LV430391X22100",
+        "materialtag": "江苏",
+        "memos": "测试1",
+        "orderamount": null,
+        "ordernum": 5,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "3f266a5f2f4a488f8e849842077c1f1f",
+        "itemno": "2",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊2",
+        "orderamount": null,
+        "ordernum": 4,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "00100009",
+        "department": "测试单位3",
+        "distributestatus": null,
+        "id": "8be6905f08424a5aa01f25e9a033c84f",
+        "itemno": "3",
+        "material": null,
+        "materialname": "不倒翁卷笔刀",
+        "materialno": null,
+        "materialrule": "3XX",
+        "materialsize": "4SIZE",
+        "materialtag": "江苏",
+        "memos": null,
+        "orderamount": null,
+        "ordernum": 6,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "b1b2e909e0334648bfd9667a3cc3d533",
+        "itemno": "4",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊3",
+        "orderamount": null,
+        "ordernum": 7,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商2",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      }
+    ],
+    "workflowid": null
+  },
+  "message": "查询成功"
+}
+2018-11-01 17:12:02,719 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": {
+    "enquiryOrder": {
+      "bidstatus": "0",
+      "business": "593146",
+      "businesstype": 0,
+      "checkadvice": null,
+      "checkdate": null,
+      "checkuser": null,
+      "checkuserid": null,
+      "createdate": "2018-11-01 17:14:07",
+      "createuser": "邓丹芳",
+      "createuserid": "2481",
+      "customer": "40288130624b5a5a01624b73e4ec0022",
+      "customerorderno": null,
+      "customname": "测试1",
+      "distributestatus": null,
+      "enclosure": "[]",
+      "enquirydate": "2018-10-30 09:33:44",
+      "enquiryenddate": "2018-11-01 00:00:00",
+      "enquirytasknum": null,
+      "enterprise": "4028813062b507430162c727eb4c00e2",
+      "enterprisename": "诸暨裕大贸易有限公司",
+      "fromsystem": 0,
+      "isdelete": 0,
+      "isspecify": 0,
+      "memos": null,
+      "paymethod": "1",
+      "quotationnum": null,
+      "quotationschedule": null,
+      "receiveaddress": null,
+      "saleOrder": null,
+      "salesid": "2481",
+      "salesman": "邓丹芳",
+      "status": 0,
+      "sumamount": null,
+      "sumordernum": 22,
+      "supplydate": null,
+      "ticketno": "EQ20181101001395",
+      "warrantydate": null
+    },
+    "enquiryOrderItems": [
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00001",
+        "department": "测试单位1",
+        "distributestatus": null,
+        "id": "4dfe3971317c4890a1b1246a3355b763",
+        "itemno": "1",
+        "material": null,
+        "materialname": "塑壳断路器",
+        "materialno": null,
+        "materialrule": "NSX160S Mic2.2 3P 3D 100A",
+        "materialsize": "LV430391X22100",
+        "materialtag": "江苏",
+        "memos": "测试1",
+        "orderamount": null,
+        "ordernum": 5,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "3f266a5f2f4a488f8e849842077c1f1f",
+        "itemno": "2",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊2",
+        "orderamount": null,
+        "ordernum": 4,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "00100009",
+        "department": "测试单位3",
+        "distributestatus": null,
+        "id": "8be6905f08424a5aa01f25e9a033c84f",
+        "itemno": "3",
+        "material": null,
+        "materialname": "不倒翁卷笔刀",
+        "materialno": null,
+        "materialrule": "3XX",
+        "materialsize": "4SIZE",
+        "materialtag": "江苏",
+        "memos": null,
+        "orderamount": null,
+        "ordernum": 6,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "b1b2e909e0334648bfd9667a3cc3d533",
+        "itemno": "4",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊3",
+        "orderamount": null,
+        "ordernum": 7,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商2",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001395",
+        "warrantydate": null
+      }
+    ],
+    "workflowid": null
+  },
+  "message": "查询成功"
+}
+2018-11-01 17:14:47,410 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:14:47,410 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:14:47,410 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:14:47,410 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:14:47,410 run_main.py--> go_on_run  20: INFO --> 失败的行数：21
+2018-11-01 17:14:47,410 run_main.py--> go_on_run  20: INFO --> 失败的行数：21
+2018-11-01 17:14:47,433 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/addOrUpdateEnquiryOrder
+2018-11-01 17:14:47,433 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/addOrUpdateEnquiryOrder
+2018-11-01 17:14:47,433 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'enquiryOrder': {'customer': '40288130624b5a5a01624b73e4ec0022', 'customname': '测试1', 'enterprise': '4028813062b507430162c727eb4c00e2', 'enterprisename': '诸暨裕大贸易有限公司', 'createuser': '邓丹芳', 'createdate': '', 'createtime': '', 'status': '', 'checkuser': '', 'checkdate': '', 'checktime': '', 'checkadvice': '', 'sumordernum': 0, 'sumamount': '', 'memos': '', 'customerorderno': '', 'enquirydate': '2018-10-30T01:33:44.000Z', 'enquiryenddate': '2018-10-31T16:00:00.000Z', 'paymethod': '1', 'receiveaddress': '', 'supplydate': '', 'warrantydate': '', 'enclosure': '[]', 'isspecify': '0', 'salesid': 2481, 'businesstype': 0, 'salesman': '邓丹芳'}, 'enquiryOrderItems': [{'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '1', 'material': None, 'materialno': None, 'custommaterialno': 'A00001', 'materialname': '塑壳断路器', 'materialrule': 'NSX160S Mic2.2 3P 3D 100A', 'materialsize': 'LV430391X22100', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 5, 'warrantydate': None, 'supplydate': None, 'memos': '测试1', 'department': '测试单位1', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '2', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 4, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊2', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '3', 'material': None, 'materialno': None, 'custommaterialno': '00100009', 'materialname': '不倒翁卷笔刀', 'materialrule': '3XX', 'materialsize': '4SIZE', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 6, 'warrantydate': None, 'supplydate': None, 'memos': '', 'department': '测试单位3', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商2', 'itemno': '4', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 7, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊3', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}]}
+2018-11-01 17:14:47,433 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'enquiryOrder': {'customer': '40288130624b5a5a01624b73e4ec0022', 'customname': '测试1', 'enterprise': '4028813062b507430162c727eb4c00e2', 'enterprisename': '诸暨裕大贸易有限公司', 'createuser': '邓丹芳', 'createdate': '', 'createtime': '', 'status': '', 'checkuser': '', 'checkdate': '', 'checktime': '', 'checkadvice': '', 'sumordernum': 0, 'sumamount': '', 'memos': '', 'customerorderno': '', 'enquirydate': '2018-10-30T01:33:44.000Z', 'enquiryenddate': '2018-10-31T16:00:00.000Z', 'paymethod': '1', 'receiveaddress': '', 'supplydate': '', 'warrantydate': '', 'enclosure': '[]', 'isspecify': '0', 'salesid': 2481, 'businesstype': 0, 'salesman': '邓丹芳'}, 'enquiryOrderItems': [{'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '1', 'material': None, 'materialno': None, 'custommaterialno': 'A00001', 'materialname': '塑壳断路器', 'materialrule': 'NSX160S Mic2.2 3P 3D 100A', 'materialsize': 'LV430391X22100', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 5, 'warrantydate': None, 'supplydate': None, 'memos': '测试1', 'department': '测试单位1', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '2', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 4, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊2', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商1', 'itemno': '3', 'material': None, 'materialno': None, 'custommaterialno': '00100009', 'materialname': '不倒翁卷笔刀', 'materialrule': '3XX', 'materialsize': '4SIZE', 'materialtag': '江苏', 'orderunit': '个', 'orderprice': None, 'orderamount': None, 'ordernum': 6, 'warrantydate': None, 'supplydate': None, 'memos': '', 'department': '测试单位3', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}, {'id': None, 'ticketno': None, 'servicer': None, 'servicername': '供应商2', 'itemno': '4', 'material': None, 'materialno': None, 'custommaterialno': 'A00002', 'materialname': '单把式拉铆枪', 'materialrule': 'A10', 'materialsize': 'A10', 'materialtag': '江苏', 'orderunit': '把', 'orderprice': None, 'orderamount': None, 'ordernum': 7, 'warrantydate': None, 'supplydate': None, 'memos': '啊啊3', 'department': '测试单位2', 'distributestatus': None, 'taskstatus': None, 'edit': False, 'category': []}]}
+2018-11-01 17:14:47,434 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:14:47,434 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:14:47,563 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:14:47,563 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:14:47,564 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:14:47,564 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:14:47,564 run_main.py--> go_on_run  20: INFO --> 失败的行数：22
+2018-11-01 17:14:47,564 run_main.py--> go_on_run  20: INFO --> 失败的行数：22
+2018-11-01 17:14:47,584 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/workFlow/getHistoricComment
+2018-11-01 17:14:47,584 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/workFlow/getHistoricComment
+2018-11-01 17:14:47,584 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': {'message': "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"}}
+2018-11-01 17:14:47,584 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': {'message': "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"}}
+2018-11-01 17:14:47,584 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Can not deserialize instance of java.lang.String out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.lang.String out of START_OBJECT token\n at [Source: java.io.PushbackInputStream@12e439c7; line: 1, column: 14] (through reference chain: com.csjscm.core.suppermark.model.rfqorder.enquiry.EnquiryOrderDTO[\"ticketno\"])"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:14:47,584 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Can not deserialize instance of java.lang.String out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.lang.String out of START_OBJECT token\n at [Source: java.io.PushbackInputStream@12e439c7; line: 1, column: 14] (through reference chain: com.csjscm.core.suppermark.model.rfqorder.enquiry.EnquiryOrderDTO[\"ticketno\"])"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:14:47,681 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:14:47,681 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 17:14:47,681 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:14:47,681 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 17:14:47,681 run_main.py--> go_on_run  20: INFO --> 失败的行数：23
+2018-11-01 17:14:47,681 run_main.py--> go_on_run  20: INFO --> 失败的行数：23
+2018-11-01 17:14:47,704 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/detailInfo
+2018-11-01 17:14:47,704 run_main.py--> go_on_run  20: INFO --> url:http://testscm.csjmro.com/planapi/api/enquiryOrder/detailInfo
+2018-11-01 17:14:47,704 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': {'message': "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"}}
+2018-11-01 17:14:47,704 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'ticketno': {'message': "org.springframework.web.HttpMediaTypeNotSupportedException: Content type 'application/x-www-form-urlencoded;charset=UTF-8' not supported"}}
+2018-11-01 17:14:47,705 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Can not deserialize instance of java.lang.String out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.lang.String out of START_OBJECT token\n at [Source: java.io.PushbackInputStream@28b57370; line: 1, column: 14] (through reference chain: com.csjscm.core.suppermark.model.rfqorder.enquiry.EnquiryOrderDTO[\"ticketno\"])"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:14:47,705 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.http.converter.HttpMessageNotReadableException: JSON parse error: Can not deserialize instance of java.lang.String out of START_OBJECT token; nested exception is com.fasterxml.jackson.databind.JsonMappingException: Can not deserialize instance of java.lang.String out of START_OBJECT token\n at [Source: java.io.PushbackInputStream@28b57370; line: 1, column: 14] (through reference chain: com.csjscm.core.suppermark.model.rfqorder.enquiry.EnquiryOrderDTO[\"ticketno\"])"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 17:16:56,419 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:16:56,419 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:16:56,419 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001396",
+  "message": "成功"
+}
+2018-11-01 17:16:56,419 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": "EQ20181101001396",
+  "message": "成功"
+}
+2018-11-01 17:16:56,749 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:16:56,749 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:16:56,749 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": [],
+  "message": "调用API成功"
+}
+2018-11-01 17:16:56,749 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": [],
+  "message": "调用API成功"
+}
+2018-11-01 17:16:57,007 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:16:57,007 run_main.py--> go_on_run  20: INFO --> 测试通过
+2018-11-01 17:16:57,007 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": {
+    "enquiryOrder": {
+      "bidstatus": "0",
+      "business": "593176",
+      "businesstype": 0,
+      "checkadvice": null,
+      "checkdate": null,
+      "checkuser": null,
+      "checkuserid": null,
+      "createdate": "2018-11-01 17:19:02",
+      "createuser": "邓丹芳",
+      "createuserid": "2481",
+      "customer": "40288130624b5a5a01624b73e4ec0022",
+      "customerorderno": null,
+      "customname": "测试1",
+      "distributestatus": null,
+      "enclosure": "[]",
+      "enquirydate": "2018-10-30 09:33:44",
+      "enquiryenddate": "2018-11-01 00:00:00",
+      "enquirytasknum": null,
+      "enterprise": "4028813062b507430162c727eb4c00e2",
+      "enterprisename": "诸暨裕大贸易有限公司",
+      "fromsystem": 0,
+      "isdelete": 0,
+      "isspecify": 0,
+      "memos": null,
+      "paymethod": "1",
+      "quotationnum": null,
+      "quotationschedule": null,
+      "receiveaddress": null,
+      "saleOrder": null,
+      "salesid": "2481",
+      "salesman": "邓丹芳",
+      "status": 0,
+      "sumamount": null,
+      "sumordernum": 22,
+      "supplydate": null,
+      "ticketno": "EQ20181101001398",
+      "warrantydate": null
+    },
+    "enquiryOrderItems": [
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00001",
+        "department": "测试单位1",
+        "distributestatus": null,
+        "id": "b4e5761dfdb74c0c8ac300d12e370822",
+        "itemno": "1",
+        "material": null,
+        "materialname": "塑壳断路器",
+        "materialno": null,
+        "materialrule": "NSX160S Mic2.2 3P 3D 100A",
+        "materialsize": "LV430391X22100",
+        "materialtag": "江苏",
+        "memos": "测试1",
+        "orderamount": null,
+        "ordernum": 5,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "74690c355e604e35bfb8867e25785c34",
+        "itemno": "2",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊2",
+        "orderamount": null,
+        "ordernum": 4,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "00100009",
+        "department": "测试单位3",
+        "distributestatus": null,
+        "id": "cf990ffa3a5f49e1990af2429f947cdb",
+        "itemno": "3",
+        "material": null,
+        "materialname": "不倒翁卷笔刀",
+        "materialno": null,
+        "materialrule": "3XX",
+        "materialsize": "4SIZE",
+        "materialtag": "江苏",
+        "memos": null,
+        "orderamount": null,
+        "ordernum": 6,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "405c5e20b17e4ff8b039deacbe03fc07",
+        "itemno": "4",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊3",
+        "orderamount": null,
+        "ordernum": 7,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商2",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      }
+    ],
+    "workflowid": null
+  },
+  "message": "查询成功"
+}
+2018-11-01 17:16:57,007 run_main.py--> go_on_run  20: INFO --> 通过响应数据{
+  "code": "200",
+  "data": {
+    "enquiryOrder": {
+      "bidstatus": "0",
+      "business": "593176",
+      "businesstype": 0,
+      "checkadvice": null,
+      "checkdate": null,
+      "checkuser": null,
+      "checkuserid": null,
+      "createdate": "2018-11-01 17:19:02",
+      "createuser": "邓丹芳",
+      "createuserid": "2481",
+      "customer": "40288130624b5a5a01624b73e4ec0022",
+      "customerorderno": null,
+      "customname": "测试1",
+      "distributestatus": null,
+      "enclosure": "[]",
+      "enquirydate": "2018-10-30 09:33:44",
+      "enquiryenddate": "2018-11-01 00:00:00",
+      "enquirytasknum": null,
+      "enterprise": "4028813062b507430162c727eb4c00e2",
+      "enterprisename": "诸暨裕大贸易有限公司",
+      "fromsystem": 0,
+      "isdelete": 0,
+      "isspecify": 0,
+      "memos": null,
+      "paymethod": "1",
+      "quotationnum": null,
+      "quotationschedule": null,
+      "receiveaddress": null,
+      "saleOrder": null,
+      "salesid": "2481",
+      "salesman": "邓丹芳",
+      "status": 0,
+      "sumamount": null,
+      "sumordernum": 22,
+      "supplydate": null,
+      "ticketno": "EQ20181101001398",
+      "warrantydate": null
+    },
+    "enquiryOrderItems": [
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00001",
+        "department": "测试单位1",
+        "distributestatus": null,
+        "id": "b4e5761dfdb74c0c8ac300d12e370822",
+        "itemno": "1",
+        "material": null,
+        "materialname": "塑壳断路器",
+        "materialno": null,
+        "materialrule": "NSX160S Mic2.2 3P 3D 100A",
+        "materialsize": "LV430391X22100",
+        "materialtag": "江苏",
+        "memos": "测试1",
+        "orderamount": null,
+        "ordernum": 5,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "74690c355e604e35bfb8867e25785c34",
+        "itemno": "2",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊2",
+        "orderamount": null,
+        "ordernum": 4,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "00100009",
+        "department": "测试单位3",
+        "distributestatus": null,
+        "id": "cf990ffa3a5f49e1990af2429f947cdb",
+        "itemno": "3",
+        "material": null,
+        "materialname": "不倒翁卷笔刀",
+        "materialno": null,
+        "materialrule": "3XX",
+        "materialsize": "4SIZE",
+        "materialtag": "江苏",
+        "memos": null,
+        "orderamount": null,
+        "ordernum": 6,
+        "orderprice": null,
+        "orderunit": "个",
+        "servicer": null,
+        "servicername": "供应商1",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      },
+      {
+        "bidstatus": 0,
+        "categoryid": null,
+        "categoryname": null,
+        "categoryno": null,
+        "custommaterialno": "A00002",
+        "department": "测试单位2",
+        "distributestatus": null,
+        "id": "405c5e20b17e4ff8b039deacbe03fc07",
+        "itemno": "4",
+        "material": null,
+        "materialname": "单把式拉铆枪",
+        "materialno": null,
+        "materialrule": "A10",
+        "materialsize": "A10",
+        "materialtag": "江苏",
+        "memos": "啊啊3",
+        "orderamount": null,
+        "ordernum": 7,
+        "orderprice": null,
+        "orderunit": "把",
+        "servicer": null,
+        "servicername": "供应商2",
+        "supplydate": null,
+        "taskstatus": 0,
+        "ticketno": "EQ20181101001398",
+        "warrantydate": null
+      }
+    ],
+    "workflowid": null
+  },
+  "message": "查询成功"
+}
+2018-11-01 18:02:04,098 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:02:04,098 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:02:04,098 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:02:04,098 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:02:04,098 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:02:04,098 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:02:04,120 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:02:04,120 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:02:04,120 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:02:04,120 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:02:04,121 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:02:04,121 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:31:15,704 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:31:15,704 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:31:15,704 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:31:15,704 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:31:15,705 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:31:15,705 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:31:15,729 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:31:15,729 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:31:15,730 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:31:15,730 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:31:15,730 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:31:15,730 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:31:15,751 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:31:15,751 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:31:15,752 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:31:15,752 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:31:15,752 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:31:15,752 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:31:15,771 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:31:15,771 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:31:15,771 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '邓丹芳', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:31:15,771 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '邓丹芳', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:31:15,771 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:31:15,771 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:32:03,568 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:32:03,568 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:32:03,569 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:32:03,569 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:32:03,569 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:32:03,569 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:32:03,588 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:32:03,588 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:32:03,588 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:32:03,588 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:32:03,588 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:32:03,588 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:32:03,607 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:32:03,607 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:32:03,608 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:32:03,608 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:32:03,608 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:32:03,608 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:32:03,626 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:32:03,626 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:32:03,626 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '邓丹芳', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:32:03,626 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '邓丹芳', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:32:03,626 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:32:03,626 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:36:44,695 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:36:44,695 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:36:44,695 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:36:44,695 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:36:44,696 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:36:44,696 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:36:44,714 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:36:44,714 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:36:44,714 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:36:44,714 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:36:44,714 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:36:44,714 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:36:44,734 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:36:44,734 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:36:44,734 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:36:44,734 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:36:44,734 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:36:44,734 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:36:44,751 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:36:44,751 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:36:44,751 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '1223', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:36:44,751 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '1223', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:36:44,751 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:36:44,751 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:37:01,911 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:01,911 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:01,911 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:37:01,911 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:37:01,912 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:37:01,912 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:37:01,928 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:37:01,928 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:37:01,928 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:37:01,928 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:37:01,928 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:37:01,928 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:37:01,946 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:01,946 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:01,947 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:37:01,947 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:37:01,947 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:37:01,947 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:37:01,963 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:37:01,963 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:37:01,963 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '1223', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:37:01,963 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '1223', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:37:01,963 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:37:01,963 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:37:24,553 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:24,553 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:24,554 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:37:24,554 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 18:37:24,554 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:37:24,554 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 18:37:24,575 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:37:24,575 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 18:37:24,576 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:37:24,576 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 18:37:24,576 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:37:24,576 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 18:37:24,603 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:24,603 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 18:37:24,604 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:37:24,604 run_main.py--> go_on_run  20: INFO --> 失败case名称：
+2018-11-01 18:37:24,604 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:37:24,604 run_main.py--> go_on_run  20: INFO --> 失败的行数：25
+2018-11-01 18:37:24,624 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:37:24,624 run_main.py--> go_on_run  20: INFO --> url:http://192.168.1.199:8084/api/planOrderCancel/startPlanOrderCancelWorkFlow
+2018-11-01 18:37:24,624 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '管理员', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:37:24,624 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'userId': '管理员', 'businessKey': '123456', 'signer': '张三', 'salesManName': '邓丹芳'}
+2018-11-01 18:37:24,624 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 18:37:24,624 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "code": "500",
+  "data": {
+    "message": "org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'userId' is not present"
+  },
+  "message": "系统错误,请联系管理员帮您解决！"
+}
+2018-11-01 23:35:32,807 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:35:32,807 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:35:32,807 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:35:32,807 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:35:32,807 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:35:32,807 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:35:32,822 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:35:32,822 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:35:32,822 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:35:32,822 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:35:32,822 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:35:32,822 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:45:12,100 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:45:12,100 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:45:12,100 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:45:12,100 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:45:12,100 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:45:12,100 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:45:12,116 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:45:12,116 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:45:12,116 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:45:12,116 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:45:12,116 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:45:12,116 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:47:22,532 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:47:22,532 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:47:22,532 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:47:22,532 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:47:22,532 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:47:22,532 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:47:22,548 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:47:22,548 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:47:22,548 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:47:22,548 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:47:22,548 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:47:22,548 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:49:08,239 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:49:08,239 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:49:08,239 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:49:08,239 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:49:08,239 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:49:08,239 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:49:08,254 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:49:08,254 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:49:08,254 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:49:08,254 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:49:08,254 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:49:08,254 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:50:07,503 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:50:07,503 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:50:07,503 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:50:07,503 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:50:07,503 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:50:07,503 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:50:07,519 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:50:07,519 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:50:07,519 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:50:07,519 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:50:07,519 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:50:07,519 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:53:19,662 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:53:19,662 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:53:19,662 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:53:19,662 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:53:19,662 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:53:19,662 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:53:19,678 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:53:19,678 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:53:19,678 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:53:19,678 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': '1507989375749', 'uid': '5249191', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1', 't': 200, 'i': '请求成功'}
+2018-11-01 23:53:19,693 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:53:19,693 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:53:54,871 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:53:54,871 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:53:54,871 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:53:54,871 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:53:54,871 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:53:54,871 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:53:54,887 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:53:54,887 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:53:54,887 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:53:54,887 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:53:54,887 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:53:54,887 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:55:16,772 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:55:16,772 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:55:16,772 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:55:16,772 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:55:16,772 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:55:16,772 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:55:16,803 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:55:16,803 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:55:16,803 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:55:16,803 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:55:16,803 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:55:16,803 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:55:59,391 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:55:59,391 run_main.py--> go_on_run  20: INFO --> 测试失败
+2018-11-01 23:55:59,391 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:55:59,391 run_main.py--> go_on_run  20: INFO --> 失败case名称：登录
+2018-11-01 23:55:59,391 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:55:59,391 run_main.py--> go_on_run  20: INFO --> 失败的行数：2
+2018-11-01 23:55:59,406 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:55:59,406 run_main.py--> go_on_run  20: INFO --> url:https://m.imooc.com/passport/user/login
+2018-11-01 23:55:59,406 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:55:59,406 run_main.py--> go_on_run  20: INFO --> 失败请求数据:{'timestamp': 200, 'uid': '请求成功', 'trade_number': '1710141907182334', 'secrect': '694697627cbd7fc65f9d0f82f4fe9849', 'from': '2', 'token': 'f7d58a0db8381086dc10864b24badb7f', 'pay_way': '1'}
+2018-11-01 23:55:59,406 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
+2018-11-01 23:55:59,406 run_main.py--> go_on_run  20: INFO --> 失败响应数据:{
+  "data": [],
+  "msg": "参数错误",
+  "status": 90008
+}
