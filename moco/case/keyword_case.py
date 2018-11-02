@@ -3,7 +3,7 @@ import sys
 
 from log.get_log import UserLog
 
-sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\AuToTest4\\moco')
+sys.path.append('/var/lib/jenkins/workspace/seleniumPython/moco')
 from keywordselenium.actionMethod import ActionMethod
 from util.excel_util import ExcelUtil
 
