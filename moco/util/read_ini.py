@@ -1,10 +1,16 @@
+import sys
+
+sys.path.append('/var/lib/jenkins/workspace/seleniumPython/moco')
+import os
 import configparser
 
 
 class ReadIni(object):
     def __init__(self, file_name=None, node=None):
         if file_name is None:
-            file_name = r"C:\Users\Administrator\PycharmProjects\moco\config\localElement.ini"
+            file = os.path.abspath(os.path.dirname(os.path.dirname(__file__)))
+            file_name = file+"/config/localElement.ini"
+            #file_name = r"C:\Users\Administrator\PycharmProjects\AuToTest4\moco\config\localElement.ini"
         else:
             self.file_name = file_name
         if node is None:
