@@ -1,12 +1,13 @@
 import sys
 
+from base.run_method1 import RunMethod1
 from data.dependent_data import DepnedentData
 from log.get_log import UserLog
 from util.operation_header import OperationHeader
 from util.operation_json import OperationJson
 from util.sendEmail import Mailer
 
-sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\Interface')
+sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\AuToTest4\\Interface')
 from util.commonUtil import CommonUtile
 from base.run_method import RunMethod
 from data.get_data import GetData
@@ -14,6 +15,7 @@ from data.get_data import GetData
 
 class RunTest:
     def __init__(self):
+
         self.run_method = RunMethod()
         self.data = GetData()
         self.containt = CommonUtile()
@@ -30,6 +32,8 @@ class RunTest:
         for i in range(1, rows_conut):
             is_run = self.data.get_is_run(i)
             if is_run:
+                self.request_type = self.data.get_request_type(i)
+
                 url = self.data.get_request_url(i)
                 method = self.data.get_request_method(i)
                 request_data = self.data.get_json_data(i)
