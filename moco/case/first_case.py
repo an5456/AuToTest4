@@ -1,25 +1,27 @@
 # encoding:utf-8
+from Scripts import HTMLTestRunner
 from selenium import webdriver
 import sys
 
-#sys.path.append('C:\\Program Files (x86)\\python\\lib\\HTMLTestRunner.py')
+sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\AuToTest4\\AuToTest4\\moco')
 import unittest
 import os
 import time
-import HTMLTestRunner
+
 
 from business.register_business import RegisterBusiness
 from log.get_log import UserLog
 
 from util.read_ini import ReadIni
-sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
+# sys.path.append('C:\\Users\\Administrator\\PycharmProjects\\moco')
 
 
 class FirstCase(unittest.TestCase):
     @classmethod
     def setUpClass(cls):
         get_element = ReadIni()
-        cls.file_name = "C:/Users/Administrator/PycharmProjects/moco/moco_selenium/image/test001.png"
+        cls.pwd = os.path.join(os.path.dirname(os.getcwd()))
+        cls.file_name = cls.pwd +"\\image\\test001.png"
         # cls.file_name = get_element.get_value("code_image_url")
         cls.log = UserLog()
         cls.logger = cls.log.get_log()
@@ -77,8 +79,9 @@ class FirstCase(unittest.TestCase):
 
 
 if __name__ == '__main__':
-    # filePath = os.path.join(os.path.dirname(os.getcwd()) + "\\report\\" + "first_case.html")
-    filePath = 'C:\\Users\\Administrator\\PycharmProjects\\moco\\report\\first_case.html'
+    filePath = os.path.join(os.path.dirname(os.getcwd()) + "\\report\\" + "first_case.html")
+    print(filePath)
+    # filePath = r'C:\Users\Administrator\PycharmProjects\AuToTest4\AuToTest4\moco\report\first_case.html'
     f = open(filePath, "wb")
     suite = unittest.TestSuite()
     suite.addTest(FirstCase("test_login_email_error"))
